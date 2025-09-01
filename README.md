@@ -1,7 +1,6 @@
 Gestor de P.A - Aplicação Desktop Colaborativa
 Este é um aplicativo de desktop desenvolvido em Python com PyQt5 para o gerenciamento de registros de P.A. (Pendência de Análise). A aplicação utiliza o Google Firebase (Firestore) como banco de dados, permitindo a sincronização de dados em tempo real e o uso colaborativo entre múltiplos utilizadores.
 
-!(https://www.google.com/search?q=https://placehold.co/800x500/2E2E2E/E0E0E0%3Ftext%3DGestor%2520de%2520P.A)
 
 ✨ Funcionalidades Principais
 Cadastro e Edição: Formulário completo para criar e atualizar registros.
@@ -74,3 +73,4 @@ venv/
 # Ficheiros de IDEs
 .idea/
 .vscode/
+
